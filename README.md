@@ -25,3 +25,5 @@
 </dependency>
 ```
 - 启动成功后访问： http://localhost:8080/
+
+![image](https://github.com/linbainian/bklog/blob/master/mblog/1.jpeg)
